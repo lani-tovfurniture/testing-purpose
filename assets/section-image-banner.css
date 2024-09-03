@@ -435,6 +435,7 @@
 
 .banner__heading {
   margin-bottom: 0;
+  color:red;
 }
 
 .banner__box .banner__heading + * {
